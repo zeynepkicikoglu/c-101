@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/if-else/bin/Debug/net7.0/if-else
+/Users/zeynepkicikoglu/Desktop/patika/if-else/bin/Debug/net7.0/if-else.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/if-else/bin/Debug/net7.0/if-else.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/if-else/bin/Debug/net7.0/if-else.dll
+/Users/zeynepkicikoglu/Desktop/patika/if-else/bin/Debug/net7.0/if-else.pdb
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.dll
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/refint/if-else.dll
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.pdb
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/if-else.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/if-else/obj/Debug/net7.0/ref/if-else.dll
