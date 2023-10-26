@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/bin/Debug/net7.0/try-catch-finally
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/bin/Debug/net7.0/try-catch-finally.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/bin/Debug/net7.0/try-catch-finally.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/bin/Debug/net7.0/try-catch-finally.dll
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/bin/Debug/net7.0/try-catch-finally.pdb
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.dll
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/refint/try-catch-finally.dll
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.pdb
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/try-catch-finally.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/try-catch-finally/obj/Debug/net7.0/ref/try-catch-finally.dll
