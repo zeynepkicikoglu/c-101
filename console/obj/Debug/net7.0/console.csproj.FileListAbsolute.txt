@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/console/bin/Debug/net7.0/console
+/Users/zeynepkicikoglu/Desktop/patika/console/bin/Debug/net7.0/console.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/console/bin/Debug/net7.0/console.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/console/bin/Debug/net7.0/console.dll
+/Users/zeynepkicikoglu/Desktop/patika/console/bin/Debug/net7.0/console.pdb
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.dll
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/refint/console.dll
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.pdb
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/console.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/console/obj/Debug/net7.0/ref/console.dll

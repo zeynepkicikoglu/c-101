@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/operators/bin/Debug/net7.0/operators
+/Users/zeynepkicikoglu/Desktop/patika/operators/bin/Debug/net7.0/operators.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/operators/bin/Debug/net7.0/operators.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/operators/bin/Debug/net7.0/operators.dll
+/Users/zeynepkicikoglu/Desktop/patika/operators/bin/Debug/net7.0/operators.pdb
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.dll
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/refint/operators.dll
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.pdb
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/operators.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/operators/obj/Debug/net7.0/ref/operators.dll
