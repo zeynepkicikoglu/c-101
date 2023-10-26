@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/bin/Debug/net7.0/While_foreach
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/bin/Debug/net7.0/While_foreach.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/bin/Debug/net7.0/While_foreach.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/bin/Debug/net7.0/While_foreach.dll
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/bin/Debug/net7.0/While_foreach.pdb
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.dll
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/refint/While_foreach.dll
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.pdb
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/While_foreach.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/While_foreach/obj/Debug/net7.0/ref/While_foreach.dll
