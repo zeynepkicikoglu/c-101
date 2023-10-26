@@ -12,6 +12,9 @@ namespace Switch_Case
 		{
 			int month = DateTime.Now.Month;
 			//Expression
+			//Case ifadelerinin sırası önemli değildir.
+			//Bilinenin aksine default ifadesi en son yazılmak zorunda değildir.
+			//Default ifadesi zorunlu değildir. Yazılmasa da olur.
 			switch (month)
 			{
 				case 1:
@@ -26,28 +29,28 @@ namespace Switch_Case
 				case 3:
 					Console.WriteLine("Mart ayındasınız!");
 					break;
-                case 5:
+                		case 5:
 					Console.WriteLine("Mayıs ayındasınız!");
 					break;
-                case 6:
+                		case 6:
 					Console.WriteLine("Haziran ayındasınız!");
 					break;
-                case 7:
+                		case 7:
 					Console.WriteLine("Temmuz ayındasınız!");
 					break;
-                case 8:
+               			case 8:
 					Console.WriteLine("Ağustos ayındasınız!");
 					break;
-                case 9:
+                		case 9:
 					Console.WriteLine("Eylül ayındasınız!");
 					break;
-                case 10:
+                		case 10:
 					Console.WriteLine("Ekim ayındasınız!");
 					break;
-                case 11:
+                		case 11:
 					Console.WriteLine("Kasım ayındasınız!");
 					break;
-                case 12:
+                		case 12:
 					Console.WriteLine("Aralık ayındasınız!");
 					break;
 				default:
