@@ -1,0 +1,14 @@
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/bin/Debug/net7.0/switch_case
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/bin/Debug/net7.0/switch_case.deps.json
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/bin/Debug/net7.0/switch_case.runtimeconfig.json
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/bin/Debug/net7.0/switch_case.dll
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/bin/Debug/net7.0/switch_case.pdb
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.AssemblyInfoInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.AssemblyInfo.cs
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.csproj.CoreCompileInputs.cache
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.dll
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/refint/switch_case.dll
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.pdb
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/switch_case.genruntimeconfig.cache
+/Users/zeynepkicikoglu/Desktop/patika/switch_case/obj/Debug/net7.0/ref/switch_case.dll
